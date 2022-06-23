@@ -1,7 +1,5 @@
 {
   "challenge": {"id":90997,"challengeList":[8,15,32,38,41,26,30,15,20,7,37,18,15,39,13,35,49,32,34,43]},
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "ifResOk": {"kekkasu":0,"msg":"","ninsho_id":null,"result":0,"soshin_id":null},
+  "ifResNg": {"kekkasu":0,"msg":"NG","ninsho_id":null,"result":1,"soshin_id":null}
 }
